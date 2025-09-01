@@ -1,5 +1,4 @@
-# websites
-Websites I worked on 
+**Websites I worked on** </br>
 [Fifi Beauty](https://fifi-beauty.com/) </br>
 [La Beaute Israel](https://labeauteisrael.co.il/) </br>
 [Or Shpitz Bakery](https://orshpitz.co.il/) </br>

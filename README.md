@@ -3,6 +3,7 @@
 [La Beaute Israel](https://labeauteisrael.co.il/) </br>
 [Or Shpitz Bakery](https://orshpitz.co.il/) </br>
 [Aline Cohen Cosmetics](https://alinecohencosmetics.com/) </br>
+[Miel By Daniel Greenberg](https://wewearmiel.co.il/)
 [Nadlan Nadlan And Cohen Felix Group](https://nadlan-nadlan.co.il/) </br>
 [Juv Activewear](https://juv-activewear.co.il/) </br>
 [Port Home Design](https://porthomedesign.com/)
